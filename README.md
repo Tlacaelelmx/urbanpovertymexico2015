@@ -5,7 +5,7 @@ In June 2019, the National Council for the Evaluation of Development Policy (CON
 
 The format and organization of this information makes it difficult to use it for deeper spatial analysis, so together with Sergio Uriel Juárez Flores, we develop the following .gpkg files by AGEB (basic geostatistical area):
 
-PobrezaUrbana2015_00Nacional_AGEB.gpkg: National, all the urban AGEB.
+PobrezaUrbana2015_00Nacional_AGEB.gpkg: National, all the urban AGEB. Available at: _______
 PobrezaUrbana2015_(StateCode)(StateName)_ AGEB.gpkg: By state, all the 32 mexican states.
 PobrezaUrbana2015_(MetropolitanAreaCode)(MetropolitanAreaName)_ AGEB.gpkg: By Metropolitan area, 59 of them according to the delimitation: https://www.gob.mx/conapo/documentos/delimitacion-de-las-zonas-metropolitanas-de-mexico-2015 
 
