@@ -10,3 +10,5 @@ PobrezaUrbana2015_(StateCode)(StateName)_ AGEB.gpkg: By state, all the 32 mexica
 PobrezaUrbana2015_(MetropolitanAreaCode)(MetropolitanAreaName)_ AGEB.gpkg: By Metropolitan area, 59 of them according to the delimitation: https://www.gob.mx/conapo/documentos/delimitacion-de-las-zonas-metropolitanas-de-mexico-2015 
 
 We hope that these repositories will facilitate and promote the spatial analysis of poverty and related variables.
+
+We have written a text (in Spanish) about this repository, its context and potential use:https://www.animalpolitico.com/columna-invitada/el-analisis-espacial-de-la-pobreza-y-el-coneval/
